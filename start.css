@@ -1,0 +1,35 @@
+.start{
+    position: absolute;
+    top: 30px;
+    right: 400px;
+    left: 400px;
+  background-color: rgba(128, 255, 149, 0.5);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  box-shadow: 1px 5px 5px red;
+  color: var(--text-color); 
+  text-align: center;
+  color: red;
+  
+
+}
+.links{
+   
+    position: absolute;
+  top: 100px;
+  right: 400px;
+  left: 400px;
+  background-color: rgba(128, 255, 149, 0.5);
+  padding: 20px;
+  border-radius: var(--border-radius);
+  box-shadow: 1px 5px 5px red;
+  color: var(--text-color); 
+  text-align: center;
+ 
+}
+body{
+    background-color: rgb(114, 92, 243);
+}
+#green{
+    color: green;
+}
